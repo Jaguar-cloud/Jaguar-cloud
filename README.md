@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaguar-cloud
 - 👀 I’m interested in Web Development both front-end and back-end design
-- 🌱 I’m currently learning Javascript and PhP
+- 🌱 I’m currently learning Javascript using React and Node js using Express js
 - 💞️ I’m looking to collaborate with firms on Web development
 - 📫 You can reach me via my email at levichiagozie@yahoo.com
 
